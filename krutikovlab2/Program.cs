@@ -7,6 +7,7 @@ namespace krutikovlab2
     {
         static void Main(string[] args)
         {   
+            
             Tree tree = new Tree();
 
             tree.Insert(1);
